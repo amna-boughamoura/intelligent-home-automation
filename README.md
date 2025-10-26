@@ -1,2 +1,4 @@
-# intelligent-home-automation
-IoT-based smart home system with Arduino and sensors
+# Intelligent Home Automation System
+
+This is a smart home IoT project using Arduino, sensors, and actuators.
+More details will be added soon.
